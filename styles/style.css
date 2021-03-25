@@ -1,0 +1,71 @@
+.container
+{
+  margin-bottom: 45px;
+}
+
+body
+{
+    background: #E5E5E5;
+}
+
+/*Nav-bar css start form here*/
+main{
+    background: #FFFFFF;
+     padding: 50px;
+}
+.navbar img
+{
+    width: 40px; 
+    margin-top: -7px
+}
+.nav-link
+{
+    color: white!important;
+    font-weight: 500;
+    margin: 0px 25px;
+    
+}
+
+/*player-section css start form here*/
+.player-section img
+{
+  width: 56px;
+  height: 56px; 
+}
+.player-title
+{
+    color: #562EFF;
+    
+}
+hr
+{
+
+}
+/*blog-section css start form here*/
+.blog-section img
+{
+    Width:224px;
+    Height:127px;
+}
+
+/*courses-section start form here*/
+.courses-section
+{
+    background: #FFFFFF;
+    padding: 40px;
+}
+.card
+{
+    padding: 20px;
+}
+.card-footer img
+{
+    Width:12.39px;
+    Height:11.81px;
+    vertical-align: revert;
+}
+.card-footer
+{
+    border-top: none;
+    background-color: white;
+}
